@@ -14,7 +14,13 @@ Features:
 
 ![thenews.im with a dark theme applied](./after.png)
 
-You can change the default theme from "Dark" to "Light" by going to Tools -> Extensions and clicking the "Options" link under Dark Theme Everywhere. You can toggle the theme with a hotkey by going to Tools -> Extensions and clicking the "Keyboard shortcuts" link at the bottom.
+Change the default theme from "Dark" to "Light"
+ - Tools -> Extensions
+ - Click "Options" from Dark Theme Everywhere list element
+
+Bind hotkey toggle 
+ - Tools -> Extensions
+ - Click "Keyboard shortcuts" link at the bottom of the page
 
 Enjoy!
 
