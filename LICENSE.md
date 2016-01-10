@@ -1,4 +1,4 @@
-Global-Citizen-License
+Global Citizen License (GCLv1)
 
 LICENSE AGREEMENT TERMS AND CONDITIONS
 
