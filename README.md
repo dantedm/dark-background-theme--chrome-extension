@@ -1,6 +1,6 @@
 # Dark Theme Everywhere
 
-**_Darkens bright pages for easier nighttime reading.
+Darkens bright pages for easier nighttime reading.
 
 **Before:**
 
@@ -18,6 +18,6 @@ Improvements from _Nicer Inverter_:
 
 You can change the default theme from "Dark" to "Light" by going to Tools -> Extensions and clicking the "Options" link under Dark Theme Everywhere. You can toggle the theme with a hotkey by going to Tools -> Extensions and clicking the "Keyboard shortcuts" link at the bottom.
 
-_Enjoy!_
+Enjoy!
 
-Licensed under [MIT](./LICENSE.md).
+Licensed under [MIT & GCLv1](./LICENSE.md).
