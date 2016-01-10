@@ -1,6 +1,6 @@
 # Dark Theme Everywhere - Chrome Extension
 
-Darkens bright pages for easier nighttime reading.
+Nicely inverts page colors to reduce eye strain.
 
 Features:
  - Set default (on/off)
