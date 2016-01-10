@@ -1,4 +1,4 @@
-# Dark Theme Everywhere
+# Dark Theme Everywhere - Chrome Extension
 
 Darkens bright pages for easier nighttime reading.
 
